@@ -97,7 +97,7 @@ h5.card-title{
 
 /* Hero section */
 /* #banner{
-    background: url('../images/banner.jpg');
+    background: url('./banner.jpg');
     background-size: cover;
     width: 100%;
     height: 600px;
@@ -185,7 +185,7 @@ h5.card-title{
 }
 /* counter section */
 #counter{
-    background: url('../images/counter.jpg') center center;
+    background: url('./counter.jpg') center center;
     background-size: cover;
     width: 100%;
     height: 500px;
